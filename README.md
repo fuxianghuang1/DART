@@ -2,7 +2,7 @@
 # <p align=center> Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm </p> # 
 
 
-[NEWS.20251112] **The related [paper](https://arxiv.org/pdf/2511.11009) has been accepted by International Journal of Computer Vision.**
+[NEWS.20251112] **The related [paper](https://arxiv.org/pdf/2511.11009) has been accepted by International Journal of Computer Vision. The source code will be released soon.**
 
 
 If you find this repository is useful for you, please cite our paper:
