@@ -2,7 +2,7 @@
 # <p align=center> Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm </p> # 
 
 
-[NEWS.20251112] **The related [paper](https://arxiv.org/pdf/2511.11009) has been accepted by International Journal of Computer Vision.``` 
+[NEWS.20251112] **The related [paper](https://arxiv.org/pdf/2511.11009) has been accepted by International Journal of Computer Vision.**
 
 # Quick Usage
 DART is applicable to various UDA algorithms; therefore, the code implementation primarily begins with core "Step-2 (Robustification)".
